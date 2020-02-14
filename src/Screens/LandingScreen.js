@@ -15,7 +15,7 @@ const LandingScreen = (props) => {
                 <View style={styles.imageContainer}>
                     <Image 
                         style={styles.image}
-                        source={require('/Users/vlitavsky/Documents/REACT_NATIVE/MyRecipe/src/images/splash_screen.png')}></Image>
+                        source={require('../images/splash_screen.png')}></Image>
                         <Text style={{
                             fontSize: 30,
                             fontWeight: 'bold',
